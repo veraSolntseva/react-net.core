@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\User\source\repos\ReactCrudApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
